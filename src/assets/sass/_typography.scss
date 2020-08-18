@@ -1,0 +1,43 @@
+html {
+  font-size: $font-size-base;
+  
+}
+
+body {
+  font-family: $font-family-base;
+  font-weight: $font-weight-normal;
+  line-height: $line-height-base;
+  color: $font-color-base;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-family-title;
+  font-weight: $font-weight-bold;
+  line-height: $line-height-title;
+  margin-bottom: .5rem;
+}
+
+
+h1, .h1 {
+    font-size: $font-size-h1;
+}
+h2, .h2{
+    font-size: $font-size-h2;
+}
+h3, .h3{
+    font-size: $font-size-h3;
+}
+h4, .h4{
+    font-size: $font-size-h4;
+}
+h5, .h5 {
+    font-size: $font-size-h5;
+}
+h6, .h6{
+    font-size: $font-size-h6;
+}
+
+p{
+    font-size: $font-size-paragraph;
+    margin: 0 0 1rem;
+}
