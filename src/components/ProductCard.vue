@@ -109,9 +109,9 @@ export default {
 }
 
 .v-pagination {
-  /deep/ i {
+  /* /deep/ i {  */
     font-size: 0.875rem;
-  }
+ /* }  */
 }
 </style>
 

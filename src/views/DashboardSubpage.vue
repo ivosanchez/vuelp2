@@ -9,6 +9,7 @@ import DashboardLayout from "../layouts/DashboardLayout";
 export default {
   name: "DashboardSubpage",
   components: {
+    //not used
     DashboardLayout
   }
 };
